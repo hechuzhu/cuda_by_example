@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enum_gpu", "..\enum_gpu\enum_gpu.vcxproj", "{D3064849-D4D4-45FF-86A5-6F598855DF5D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hellow_world", "..\hellow_world\hellow_world.vcxproj", "{B726061C-74ED-4939-95AD-20C6171616CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "set_gpu", "..\set_gpu\set_gpu.vcxproj", "{A7937481-C025-4E27-8C01-9F27A1BFD3F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_device_call", "..\simple_device_call\simple_device_call.vcxproj", "{150E063F-63A4-4516-BB9D-80C53C1D7006}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_kernel", "..\simple_kernel\simple_kernel.vcxproj", "{8B2250DE-CB2B-4DA3-8E0C-2876885826F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_kernel_params", "..\simple_kernel_params\simple_kernel_params.vcxproj", "{A4DE5F30-3B95-4193-A8B7-39DEDD8D0CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3064849-D4D4-45FF-86A5-6F598855DF5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3064849-D4D4-45FF-86A5-6F598855DF5D}.Debug|Win32.Build.0 = Debug|Win32
+		{D3064849-D4D4-45FF-86A5-6F598855DF5D}.Release|Win32.ActiveCfg = Release|Win32
+		{D3064849-D4D4-45FF-86A5-6F598855DF5D}.Release|Win32.Build.0 = Release|Win32
+		{B726061C-74ED-4939-95AD-20C6171616CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B726061C-74ED-4939-95AD-20C6171616CA}.Debug|Win32.Build.0 = Debug|Win32
+		{B726061C-74ED-4939-95AD-20C6171616CA}.Release|Win32.ActiveCfg = Release|Win32
+		{B726061C-74ED-4939-95AD-20C6171616CA}.Release|Win32.Build.0 = Release|Win32
+		{A7937481-C025-4E27-8C01-9F27A1BFD3F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7937481-C025-4E27-8C01-9F27A1BFD3F3}.Debug|Win32.Build.0 = Debug|Win32
+		{A7937481-C025-4E27-8C01-9F27A1BFD3F3}.Release|Win32.ActiveCfg = Release|Win32
+		{A7937481-C025-4E27-8C01-9F27A1BFD3F3}.Release|Win32.Build.0 = Release|Win32
+		{150E063F-63A4-4516-BB9D-80C53C1D7006}.Debug|Win32.ActiveCfg = Debug|Win32
+		{150E063F-63A4-4516-BB9D-80C53C1D7006}.Debug|Win32.Build.0 = Debug|Win32
+		{150E063F-63A4-4516-BB9D-80C53C1D7006}.Release|Win32.ActiveCfg = Release|Win32
+		{150E063F-63A4-4516-BB9D-80C53C1D7006}.Release|Win32.Build.0 = Release|Win32
+		{8B2250DE-CB2B-4DA3-8E0C-2876885826F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B2250DE-CB2B-4DA3-8E0C-2876885826F4}.Debug|Win32.Build.0 = Debug|Win32
+		{8B2250DE-CB2B-4DA3-8E0C-2876885826F4}.Release|Win32.ActiveCfg = Release|Win32
+		{8B2250DE-CB2B-4DA3-8E0C-2876885826F4}.Release|Win32.Build.0 = Release|Win32
+		{A4DE5F30-3B95-4193-A8B7-39DEDD8D0CF4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4DE5F30-3B95-4193-A8B7-39DEDD8D0CF4}.Debug|Win32.Build.0 = Debug|Win32
+		{A4DE5F30-3B95-4193-A8B7-39DEDD8D0CF4}.Release|Win32.ActiveCfg = Release|Win32
+		{A4DE5F30-3B95-4193-A8B7-39DEDD8D0CF4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

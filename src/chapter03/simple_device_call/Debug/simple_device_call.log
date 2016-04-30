@@ -1,0 +1,10 @@
+﻿Build started 2016/4/30 15:29:38.
+     1>Project "D:\hechuzhu_git\cuda_by_example\src\chapter03\simple_device_call\simple_device_call.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\hechuzhu_git\cuda_by_example\src\chapter03\chapter3\Debug\simple_device_call.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\lib\Win32" /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\lib\Win32" /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\lib\Win32" cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\hechuzhu_git\cuda_by_example\src\chapter03\chapter3\Debug\simple_device_call.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\hechuzhu_git\cuda_by_example\src\chapter03\chapter3\Debug\simple_device_call.lib" /MACHINE:X86 Debug\simple_device_call.cu.obj
+         simple_device_call.vcxproj -> D:\hechuzhu_git\cuda_by_example\src\chapter03\chapter3\Debug\simple_device_call.exe
+     1>Done Building Project "D:\hechuzhu_git\cuda_by_example\src\chapter03\simple_device_call\simple_device_call.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.27
